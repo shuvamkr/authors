@@ -1,2 +1,4 @@
-List of authors:
-Shuvam
+### List of authors:
+
+- Shuvam
+- Nirzon
