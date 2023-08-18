@@ -1,3 +1,2 @@
 List of authors:
-Shuvam
-Easwaran
+Nikhitha
